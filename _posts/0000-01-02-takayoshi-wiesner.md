@@ -1,6 +1,8 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to my second slide!"
 ---
-All your base are belong to us<br>
+
+ALL YOUR BASE ARE BELONG TO US<br>
+
 Use the left arrow to go back!
